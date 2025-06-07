@@ -7,8 +7,6 @@ Esta es una API RESTful desarrollada con [Spring Boot](https://spring.io/project
 * API RESTful para predicción de edad por nombre.
 * Integración robusta con la API de Agify.io utilizando Spring WebFlux para llamadas no bloqueantes.
 * Manejo de errores para fallos en la comunicación con Agify.io.
-* Implementación de pruebas unitarias con JUnit 5 y Mockito.
-* Configurado para CI/CD (Integración y Despliegue Continuos) con GitHub Actions (próximamente).
 
 ## Tecnologías Utilizadas
 
