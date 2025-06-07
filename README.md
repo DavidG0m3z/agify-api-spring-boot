@@ -10,7 +10,7 @@ Esta es una API RESTful desarrollada con [Spring Boot](https://spring.io/project
 
 ## Tecnologías Utilizadas
 
-* [Java 21](https://www.oracle.com/java/technologies/downloads/) (o la versión que estés usando)
+* [Java 21](https://www.oracle.com/java/technologies/downloads/)
 * [Spring Boot 3.x](https://spring.io/projects/spring-boot)
 * [Spring WebFlux](https://docs.spring.io/spring-framework/reference/web/webflux.html)
 * [Project Lombok](https://projectlombok.org/)
