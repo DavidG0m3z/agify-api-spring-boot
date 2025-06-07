@@ -15,9 +15,6 @@ Esta es una API RESTful desarrollada con [Spring Boot](https://spring.io/project
 * [Spring WebFlux](https://docs.spring.io/spring-framework/reference/web/webflux.html)
 * [Project Lombok](https://projectlombok.org/)
 * [Apache Maven](https://maven.apache.org/)
-* [JUnit 5](https://junit.org/junit5/)
-* [Mockito](https://site.mockito.org/)
-* [GitHub Actions](https://docs.github.com/en/actions)
 
 ## Cómo Ejecutar Localmente
 
